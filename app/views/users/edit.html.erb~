@@ -1,0 +1,4 @@
+<%= t '.title' %>
+
+<%= render 'form' %>
+<%= link_to t('links.back'), @user %>
