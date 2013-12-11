@@ -19,7 +19,7 @@ pt-BR:
 
   rooms:
     index:
-      title: 'Quartos disponíveis'
+      title: 'Quartos saddisponíveis'
       search_results: 'Resultados da busca'
     search:
       search_for: 'Buscar por...'
@@ -107,6 +107,7 @@ pt-BR:
       signed_out: 'Logout efetuado com sucesso. Até logo!'
       already_logged_in: "Você já esta logado."
       room_created: Quarto criado com sucesso !
+      room_updated: Quarto atualizado com sucesso !
 
   views:
     pagination:

@@ -19,8 +19,8 @@ test:
   adapter: postgresql
   database: colchonet_test
   host: localhost
-  username: vinibaggio
-  password:
+  username: postgres
+  password: admin
   pool: 5
   timeout: 5000
 
